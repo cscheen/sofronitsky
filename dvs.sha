@@ -24,12 +24,12 @@
 79b3fbde74dfec501940e9d4fba08921e01ad8c2e5a688ce61f63b1f  ./tex/avant-propos.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
 8794f327bf0cfa72251fc269763cba59d6613efe5fe3ee164b39afd7  ./tex/lexique.tex
+8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
 8f8ee806484c81142f395db66bafca7ecd13fbb1d3ec69a0d6754bfc  ./tex/schumann.tex
 91816d3f1fed1df08dec3cf4472f55756c50cf422b8db51fa69c28e1  ./tex/scriabine.tex
 a20076b4345b42eee0acc7e5f66024717958c06ae742f23e985163b4  ./tex/glazounov.tex
 a81025ddf6517010204a2727db4ca18269f1b707c93f995ac4b8d824  ./MANIFEST.txt
-a93f7d054cc41b9fc0c56b24970d7cac9dceb10aa5e333205c68f767  ./README.md
 b2584f051081653fd3a3c24a6db3638f8e0a400a0d327a7f56baebb9  ./tex/schubert.tex
 b65f098968920ffed6769ebde9f513949a3ced686c2252dc717a7b84  ./tex/haydn.tex
 bbe6dffe4dd686214739f09c893d4e1aa94ee475df8190c05aeab00d  ./xdy/dvs_n.xdy
@@ -38,12 +38,12 @@ c03f9058f529f20b5e9f3eb9e5186cb40a42f22c1f9915503ac6213f  ./tex/blumenfeld.tex
 c471a28eb4ef5e2351eb53148d3e0810a4670248c2180eadaaed7545  ./img/vvs.png
 c50d9295f883a172b8dbf1af177327c716f381255654ddd6a9e90d30  ./tex/paris.tex
 c80c88d434f672c6a84ec547a8d462fd9bd7bd710e7bbfdb3f64e66d  ./tex/bach-ziloti.tex
-ca35143c9ea39df0206e66309849bf4c6aaa2752a10887aea01189c5  ./dvs.pdf
 cb3bb250c6512f7292801835c8eff5257cc41fd04d571c363c104be9  ./tex/beethoven.tex
 cb40281a3b05f7f2cf082eaedd9ada725482893b383ece44e91de605  ./tex/chostakovitch.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
 dab2c2abb6987c8b07e172a4942851156cb9e74462a8f6b1988ab502  ./tex/chopin.tex
+de3fe97ea848bbaf21a7ec1c9f6021dced5effb82c5047ce9d280878  ./dvs.pdf
 e0b8f3a7d5f33cd7f29a687c814f4cd65959da8857d83f3f3062f5c7  ./tex/recitals.tex
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
 ebf84d529aa929d4b72825092db826077207e2026ff94f6ff4a83062  ./tex/repertoire.tex
