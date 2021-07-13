@@ -11,6 +11,7 @@
 327a00fef8405e33cba5859cf858f496efc76efb7596a45899aa210e  ./tex/studio.tex
 345d0679dbc5d40aae5c565e3889a58d31c420e04e64beee61d8cc78  ./tex/borodine.tex
 36041871830d6f60bf6d84acaa2de44d99f59020738bfb439a876af8  ./tex/medtner.tex
+3635de79508e559f15e6623287c322400aa7472028d6535829724c04  ./tex/recitals.tex
 3a8a97e0817bad3029256c2b48eb4a0046572acd3e64ecd661482982  ./tex/etat-des-lieux.tex
 3cc02fc2978f3daa149177ce6f14f549fd2f6fe38a7926856c3f2708  ./CHANGELOG.md
 499d2d71a120f251b19ae605b314fbed370a3bef50ee56af7efcea75  ./tex/colophon.tex
@@ -23,6 +24,7 @@
 7569c2b35aed1939d0e25810a8a706a03a76eb6ae2ad2c9d4efe0375  ./tex/liszt.tex
 79b3fbde74dfec501940e9d4fba08921e01ad8c2e5a688ce61f63b1f  ./tex/avant-propos.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
+825da61d40ff181ba1d77e89c5372ace56f709189201d65c455e3dc3  ./dvs.pdf
 8794f327bf0cfa72251fc269763cba59d6613efe5fe3ee164b39afd7  ./tex/lexique.tex
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
@@ -43,8 +45,6 @@ cb40281a3b05f7f2cf082eaedd9ada725482893b383ece44e91de605  ./tex/chostakovitch.te
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
 dab2c2abb6987c8b07e172a4942851156cb9e74462a8f6b1988ab502  ./tex/chopin.tex
-de3fe97ea848bbaf21a7ec1c9f6021dced5effb82c5047ce9d280878  ./dvs.pdf
-e0b8f3a7d5f33cd7f29a687c814f4cd65959da8857d83f3f3062f5c7  ./tex/recitals.tex
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
 ebf84d529aa929d4b72825092db826077207e2026ff94f6ff4a83062  ./tex/repertoire.tex
 ec6877800494b495fcfbaad421751d42d6083b5420577cc9abd248a5  ./xdy/dvs_a.xdy
