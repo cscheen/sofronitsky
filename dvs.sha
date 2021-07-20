@@ -11,11 +11,11 @@
 327a00fef8405e33cba5859cf858f496efc76efb7596a45899aa210e  ./tex/studio.tex
 345d0679dbc5d40aae5c565e3889a58d31c420e04e64beee61d8cc78  ./tex/borodine.tex
 36041871830d6f60bf6d84acaa2de44d99f59020738bfb439a876af8  ./tex/medtner.tex
-3635de79508e559f15e6623287c322400aa7472028d6535829724c04  ./tex/recitals.tex
 3a8a97e0817bad3029256c2b48eb4a0046572acd3e64ecd661482982  ./tex/etat-des-lieux.tex
 3be82085b6230e8139a01dca010f74822d2a6bbdbfd51ed3db21e6be  ./CHANGELOG.md
 3cabd84f4ff750bbf8f8e955a498bb746f167bdac26895b55982b034  ./tex/chostakovitch.tex
 499d2d71a120f251b19ae605b314fbed370a3bef50ee56af7efcea75  ./tex/colophon.tex
+4cb9a2db03dbb38153e89e7a8edb2a1e26c0840e82dedd6a58c70968  ./tex/recitals.tex
 5042c15b4686e3e93f92e6800e59c9ed6a5d90c2efdf7200da71942f  ./tex/liadov.tex
 5a3e5947ab5c8a19ba99c45be540709ff308bc1927c047f77ab57a48  ./img/pdf.png
 5a82a3b565b3ea6ce04e25073f940a3a9469669abbd314037bb9f931  ./dvs.tex
@@ -25,7 +25,6 @@
 7569c2b35aed1939d0e25810a8a706a03a76eb6ae2ad2c9d4efe0375  ./tex/liszt.tex
 796c3d5dce02dfa502986b7ce1f635a78b5d88947ef628d11ce317af  ./bib/dvs.bib
 79b3fbde74dfec501940e9d4fba08921e01ad8c2e5a688ce61f63b1f  ./tex/avant-propos.tex
-7cd8c2fdb826fe0766721718b6caace282028ff2dd91f0c265fc947f  ./dvs.pdf
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
 8794f327bf0cfa72251fc269763cba59d6613efe5fe3ee164b39afd7  ./tex/lexique.tex
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
@@ -46,6 +45,7 @@ cb3bb250c6512f7292801835c8eff5257cc41fd04d571c363c104be9  ./tex/beethoven.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
 dab2c2abb6987c8b07e172a4942851156cb9e74462a8f6b1988ab502  ./tex/chopin.tex
+e11eec26a356b9aef9c1d2689ebfba3c55dfd17b68270b7413882103  ./dvs.pdf
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
 ebf84d529aa929d4b72825092db826077207e2026ff94f6ff4a83062  ./tex/repertoire.tex
 ec6877800494b495fcfbaad421751d42d6083b5420577cc9abd248a5  ./xdy/dvs_a.xdy
