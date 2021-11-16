@@ -3,7 +3,6 @@
 0de9f8000024c116b37c2c93c5bdcdbbf8c41f40dcd87d5742f01416  ./xdy/dvs_p.xdy
 1c67266129daaba8222872d49c205b0ecdef19ab9fb727ce57b300e8  ./tex/debussy.tex
 1cb7156923c8e1a9c16ed91f9224f61b6d45e272d2d8f89859fb2fdb  ./LPPL.txt
-1df6392ee8c6e8b9daab966a11cbc2a3914f067d435d634830820a21  ./tex/scriabine.tex
 20b7d0940d789b53eb4a36e835847f5083488e8acf278aada707c29b  ./tex/rachmaninov.tex
 2308024cc67e334343aa456753ac78421bcd875659880a84d151f0bb  ./tex/translitteration.tex
 2a86431af127fe1474ca3e5c9bb8125efe5dce2440416b4bb8aa1d5c  ./xdy/dvs_d.xdy
@@ -27,11 +26,12 @@
 720f1ed533ad74b2cd91f0eda75e6f281ace4e9e743c483aa6558de4  ./tex/recitals.tex
 7569c2b35aed1939d0e25810a8a706a03a76eb6ae2ad2c9d4efe0375  ./tex/liszt.tex
 796c3d5dce02dfa502986b7ce1f635a78b5d88947ef628d11ce317af  ./bib/dvs.bib
+7ae3c23bbe3970fc7ea15fa43e0ba40a474590cce1b33bd099aca731  ./tex/scriabine.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
 8f8ee806484c81142f395db66bafca7ecd13fbb1d3ec69a0d6754bfc  ./tex/schumann.tex
-94895dc5bc438e9cc13e2cc30aef4c15fe82368db1c206368c2bc58c  ./dvs.pdf
+9aab0420c2b570dd5a906b129e729f667a4db9365c39f269a6e0d24b  ./dvs.pdf
 a17eddfdfb5fa001e5c3fd8ee86c7a512f78ac00922dadf5cc64a538  ./tex/avant-propos.tex
 a20076b4345b42eee0acc7e5f66024717958c06ae742f23e985163b4  ./tex/glazounov.tex
 a81025ddf6517010204a2727db4ca18269f1b707c93f995ac4b8d824  ./MANIFEST.txt
