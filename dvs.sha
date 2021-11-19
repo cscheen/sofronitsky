@@ -1,7 +1,6 @@
 01f0e11d53cf6b72a984a149faf862d26cff3837b5270ec58f86a5e1  ./tex/prokofiev.tex
 07d47b3f192cd5276258d71561c06201bf87e7e01ce1f2cabf8c91dc  ./tex/lexique.tex
 0de9f8000024c116b37c2c93c5bdcdbbf8c41f40dcd87d5742f01416  ./xdy/dvs_p.xdy
-15f5e81ca9dda903ad4739cf471fe415dab6faf7c943c0ba7971d1ad  ./dvs.pdf
 1c67266129daaba8222872d49c205b0ecdef19ab9fb727ce57b300e8  ./tex/debussy.tex
 1cb7156923c8e1a9c16ed91f9224f61b6d45e272d2d8f89859fb2fdb  ./LPPL.txt
 20b7d0940d789b53eb4a36e835847f5083488e8acf278aada707c29b  ./tex/rachmaninov.tex
@@ -34,6 +33,7 @@
 a17eddfdfb5fa001e5c3fd8ee86c7a512f78ac00922dadf5cc64a538  ./tex/avant-propos.tex
 a20076b4345b42eee0acc7e5f66024717958c06ae742f23e985163b4  ./tex/glazounov.tex
 a81025ddf6517010204a2727db4ca18269f1b707c93f995ac4b8d824  ./MANIFEST.txt
+a99b635b5535cddffa53d4c364dbc68db239918bdb8c639fe718b9e6  ./dvs.pdf
 b2584f051081653fd3a3c24a6db3638f8e0a400a0d327a7f56baebb9  ./tex/schubert.tex
 b65f098968920ffed6769ebde9f513949a3ced686c2252dc717a7b84  ./tex/haydn.tex
 bbe6dffe4dd686214739f09c893d4e1aa94ee475df8190c05aeab00d  ./xdy/dvs_n.xdy
@@ -46,8 +46,8 @@ cb3bb250c6512f7292801835c8eff5257cc41fd04d571c363c104be9  ./tex/beethoven.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
-eb0c99c5fce99d8956eedd966a701d182712d96c6c9a6947e78d049a  ./tex/scriabine.tex
 ebf84d529aa929d4b72825092db826077207e2026ff94f6ff4a83062  ./tex/repertoire.tex
 ec6877800494b495fcfbaad421751d42d6083b5420577cc9abd248a5  ./xdy/dvs_a.xdy
+ed8e97ceaff59b29a95dfebca8c8def5278afb4ddbe903933767fecb  ./tex/scriabine.tex
 f263036f336ce22a7d3878cf933991353808476baa38dc5901af4622  ./tex/mendelssohn.tex
 f447ab4f59dfeb680b50a660142b7011f52657099d2790330d5f3033  ./dvs.ver
