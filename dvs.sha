@@ -1,4 +1,4 @@
-03ebf31ccfb5e86eb51bd1c2597801f81422c6eabc66982dc84e5c27  ./dvs.pdf
+0826224a695c724cec056792af1959cbd377cfcd45f5d285a5ee530a  ./tex/recitals.tex
 0a9074226f9e339192660e8a9981203cb4feb58278435f4864135751  ./tex/translitteration.tex
 0de9f8000024c116b37c2c93c5bdcdbbf8c41f40dcd87d5742f01416  ./xdy/dvs_p.xdy
 1a04aba9772c4755533a6e31160ef4a58da0a2f5a1f8f7f5606b57b6  ./tex/etat-des-lieux.tex
@@ -24,7 +24,6 @@
 70354c295520e99a057bdb02fd0f2e8b806334f1ba14c79465b1b057  ./tex/goltz.tex
 7569c2b35aed1939d0e25810a8a706a03a76eb6ae2ad2c9d4efe0375  ./tex/liszt.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
-87ce4558bb992f496caf814c14a7d680a52447fcd553148885d0c432  ./tex/recitals.tex
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
 8f8ee806484c81142f395db66bafca7ecd13fbb1d3ec69a0d6754bfc  ./tex/schumann.tex
@@ -41,6 +40,7 @@ c80c88d434f672c6a84ec547a8d462fd9bd7bd710e7bbfdb3f64e66d  ./tex/bach-ziloti.tex
 cb3bb250c6512f7292801835c8eff5257cc41fd04d571c363c104be9  ./tex/beethoven.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
+d900a816735cf105f08be1518a6815a31c7d956f3b3ac119f55c9ae9  ./dvs.pdf
 d94fa5f97b508724572cfd09723d11e835d4b61aedf87a636f659ce3  ./tex/introduction.tex
 e5f9c3ba64ee5dc917264e84bc90318c2df3b4243cc1b0e53a1224eb  ./tex/lexique.tex
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
