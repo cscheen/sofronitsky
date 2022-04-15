@@ -1,6 +1,7 @@
 0826224a695c724cec056792af1959cbd377cfcd45f5d285a5ee530a  ./tex/recitals.tex
 0a9074226f9e339192660e8a9981203cb4feb58278435f4864135751  ./tex/translitteration.tex
 0de9f8000024c116b37c2c93c5bdcdbbf8c41f40dcd87d5742f01416  ./xdy/dvs_p.xdy
+0f18394a79a7fa599b84fe391b65dad47234d696a6c38e9b9bb56703  ./bib/dvs.bib
 1a04aba9772c4755533a6e31160ef4a58da0a2f5a1f8f7f5606b57b6  ./tex/etat-des-lieux.tex
 1c67266129daaba8222872d49c205b0ecdef19ab9fb727ce57b300e8  ./tex/debussy.tex
 1cb7156923c8e1a9c16ed91f9224f61b6d45e272d2d8f89859fb2fdb  ./LPPL.txt
@@ -13,7 +14,6 @@
 36041871830d6f60bf6d84acaa2de44d99f59020738bfb439a876af8  ./tex/medtner.tex
 3be82085b6230e8139a01dca010f74822d2a6bbdbfd51ed3db21e6be  ./CHANGELOG.md
 3cabd84f4ff750bbf8f8e955a498bb746f167bdac26895b55982b034  ./tex/chostakovitch.tex
-45c1859e4df7113cb4ff99058cdbf41e0c3f7b31cd33131afa5b6b39  ./bib/dvs.bib
 499d2d71a120f251b19ae605b314fbed370a3bef50ee56af7efcea75  ./tex/colophon.tex
 4c225620ece4cb80bd40be5ce0ebaf46140a5f415edf9861757e0ef5  ./tex/chopin.tex
 5042c15b4686e3e93f92e6800e59c9ed6a5d90c2efdf7200da71942f  ./tex/liadov.tex
@@ -39,9 +39,8 @@ c50d9295f883a172b8dbf1af177327c716f381255654ddd6a9e90d30  ./tex/paris.tex
 c80c88d434f672c6a84ec547a8d462fd9bd7bd710e7bbfdb3f64e66d  ./tex/bach-ziloti.tex
 cb3bb250c6512f7292801835c8eff5257cc41fd04d571c363c104be9  ./tex/beethoven.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
+d4eabe2aebfb45f91af7a1e12065e3332d9512af5754fd3935e45cae  ./dvs.pdf
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
-d900a816735cf105f08be1518a6815a31c7d956f3b3ac119f55c9ae9  ./dvs.pdf
-d94fa5f97b508724572cfd09723d11e835d4b61aedf87a636f659ce3  ./tex/introduction.tex
 e5f9c3ba64ee5dc917264e84bc90318c2df3b4243cc1b0e53a1224eb  ./tex/lexique.tex
 e699d7740d17ca25f7fef8f52cc27c46d7982b49ef03cb323a4b097f  ./tex/documents.tex
 ebf84d529aa929d4b72825092db826077207e2026ff94f6ff4a83062  ./tex/repertoire.tex
@@ -51,3 +50,4 @@ ed8e97ceaff59b29a95dfebca8c8def5278afb4ddbe903933767fecb  ./tex/scriabine.tex
 f25ca27b87a3542638cbc3e610df1f08c16855e7f34b7c8fab54e0bc  ./tex/prokofiev.tex
 f263036f336ce22a7d3878cf933991353808476baa38dc5901af4622  ./tex/mendelssohn.tex
 f447ab4f59dfeb680b50a660142b7011f52657099d2790330d5f3033  ./dvs.ver
+fb94c6dce72424fc79bffc4dc62f2758ed75571853ba30ab71c01a2c  ./tex/introduction.tex
