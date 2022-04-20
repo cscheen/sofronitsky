@@ -1,10 +1,8 @@
 0a9074226f9e339192660e8a9981203cb4feb58278435f4864135751  ./tex/translitteration.tex
 0de9f8000024c116b37c2c93c5bdcdbbf8c41f40dcd87d5742f01416  ./xdy/dvs_p.xdy
-0f18394a79a7fa599b84fe391b65dad47234d696a6c38e9b9bb56703  ./bib/dvs.bib
 1a04aba9772c4755533a6e31160ef4a58da0a2f5a1f8f7f5606b57b6  ./tex/etat-des-lieux.tex
 1c67266129daaba8222872d49c205b0ecdef19ab9fb727ce57b300e8  ./tex/debussy.tex
 1cb7156923c8e1a9c16ed91f9224f61b6d45e272d2d8f89859fb2fdb  ./LPPL.txt
-1daae87cdec54b99f8c582e4a457f95c952d3a9ba03f5dc0fb77dd66  ./dvs.pdf
 20b7d0940d789b53eb4a36e835847f5083488e8acf278aada707c29b  ./tex/rachmaninov.tex
 2a86431af127fe1474ca3e5c9bb8125efe5dce2440416b4bb8aa1d5c  ./xdy/dvs_d.xdy
 2eef94d0e97cb4f12e175466f76f0dd96c01c3931dc8b1adb4ec15d3  ./xdy/dvs_u.xdy
@@ -14,6 +12,7 @@
 36041871830d6f60bf6d84acaa2de44d99f59020738bfb439a876af8  ./tex/medtner.tex
 3be82085b6230e8139a01dca010f74822d2a6bbdbfd51ed3db21e6be  ./CHANGELOG.md
 3cabd84f4ff750bbf8f8e955a498bb746f167bdac26895b55982b034  ./tex/chostakovitch.tex
+487170d42b268f08f3555cbbbf9b0124682e96eef66ce94fed95bfaf  ./tex/introduction.tex
 499d2d71a120f251b19ae605b314fbed370a3bef50ee56af7efcea75  ./tex/colophon.tex
 4c225620ece4cb80bd40be5ce0ebaf46140a5f415edf9861757e0ef5  ./tex/chopin.tex
 5042c15b4686e3e93f92e6800e59c9ed6a5d90c2efdf7200da71942f  ./tex/liadov.tex
@@ -25,6 +24,7 @@
 7569c2b35aed1939d0e25810a8a706a03a76eb6ae2ad2c9d4efe0375  ./tex/liszt.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
+8aeb0bbdf548ab975a12eee72a38384939a9c442e2be7db829174087  ./dvs.pdf
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
 8f8ee806484c81142f395db66bafca7ecd13fbb1d3ec69a0d6754bfc  ./tex/schumann.tex
 a17eddfdfb5fa001e5c3fd8ee86c7a512f78ac00922dadf5cc64a538  ./tex/avant-propos.tex
@@ -32,6 +32,7 @@ a20076b4345b42eee0acc7e5f66024717958c06ae742f23e985163b4  ./tex/glazounov.tex
 a81025ddf6517010204a2727db4ca18269f1b707c93f995ac4b8d824  ./MANIFEST.txt
 b65f098968920ffed6769ebde9f513949a3ced686c2252dc717a7b84  ./tex/haydn.tex
 bbe6dffe4dd686214739f09c893d4e1aa94ee475df8190c05aeab00d  ./xdy/dvs_n.xdy
+bd6b6f5f5594538435a799f8f1b3f0e8f6741ca4f9d8d3724717ba67  ./bib/dvs.bib
 c025c5070172f97d6022c74a8e0a8516d41faadcbb475efd5a9bc663  ./LICENSE.txt
 c03f9058f529f20b5e9f3eb9e5186cb40a42f22c1f9915503ac6213f  ./tex/blumenfeld.tex
 c471a28eb4ef5e2351eb53148d3e0810a4670248c2180eadaaed7545  ./img/vvs.png
@@ -49,5 +50,4 @@ ed8e97ceaff59b29a95dfebca8c8def5278afb4ddbe903933767fecb  ./tex/scriabine.tex
 f25ca27b87a3542638cbc3e610df1f08c16855e7f34b7c8fab54e0bc  ./tex/prokofiev.tex
 f263036f336ce22a7d3878cf933991353808476baa38dc5901af4622  ./tex/mendelssohn.tex
 f447ab4f59dfeb680b50a660142b7011f52657099d2790330d5f3033  ./dvs.ver
-fb94c6dce72424fc79bffc4dc62f2758ed75571853ba30ab71c01a2c  ./tex/introduction.tex
 fe073ce4dd004ba35700332a940cedd67302811693d2cca295ca5dd4  ./tex/recitals.tex
