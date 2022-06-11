@@ -11,6 +11,7 @@
 345d0679dbc5d40aae5c565e3889a58d31c420e04e64beee61d8cc78  ./tex/borodine.tex
 36041871830d6f60bf6d84acaa2de44d99f59020738bfb439a876af8  ./tex/medtner.tex
 3acdb8b477e9025e6dd8cb981e1bb8351e1cd01a3c3d965cbec882aa  ./tex/liadov.tex
+3b83f94c4d46ef330b2221e6d397f606d59c264ddcb0243036e58b41  ./bib/dvs.bib
 3cabd84f4ff750bbf8f8e955a498bb746f167bdac26895b55982b034  ./tex/chostakovitch.tex
 499d2d71a120f251b19ae605b314fbed370a3bef50ee56af7efcea75  ./tex/colophon.tex
 58783334007cfa2f473b83d137139c875d49dadb5954c5aeb5648aa1  ./tex/beethoven.tex
@@ -20,18 +21,18 @@
 6dfd350fc6e3690c613c18497517c55665bcbe8c46238343a703e38d  ./tex/kabalevski.tex
 6e8b6782c6cf685a9f24afb1a93cc9b53af0bbed9d3c212694142f2d  ./CHANGELOG.md
 70354c295520e99a057bdb02fd0f2e8b806334f1ba14c79465b1b057  ./tex/goltz.tex
-7a38f51f03f4ad3c305500c59c7c101c6946814c9bc18ada02a8de12  ./tex/introduction.tex
 7e813baf0717d4f8351711ef488a08fbf8424725aefbd9e0ebcae34a  ./xdy/dvs_w.xdy
 7ee16add9108c72d6c3023c68b9fb523ae2a07e876ddbcc434ad5a54  ./tex/debussy.tex
+844959c0e27cc9c429ee43750608bf7c100473db70af5f96cabf5524  ./dvs.pdf
 880917927c7c6d662d6a3518822e67740b744be274afb413e3db2c1d  ./tex/mozart.tex
 8a0bff8bb34d0ab11f12b8afcea2eb1614a245fe9530de248927a1c1  ./README.md
 8d3feb5dfdd77fb1712dc5fe49521e30167db196a75b58c826788549  ./cls/dvs.cls
-9360a175fdc2896d8678d85be4eeff1a82c53a8d0b496afd5c259ed5  ./bib/dvs.bib
 a17eddfdfb5fa001e5c3fd8ee86c7a512f78ac00922dadf5cc64a538  ./tex/avant-propos.tex
 a20076b4345b42eee0acc7e5f66024717958c06ae742f23e985163b4  ./tex/glazounov.tex
 a81025ddf6517010204a2727db4ca18269f1b707c93f995ac4b8d824  ./MANIFEST.txt
 b65f098968920ffed6769ebde9f513949a3ced686c2252dc717a7b84  ./tex/haydn.tex
 bbe6dffe4dd686214739f09c893d4e1aa94ee475df8190c05aeab00d  ./xdy/dvs_n.xdy
+bcf44700c042e88b6aa8eb48672da934249c8de8c0e15d3f901bbffe  ./tex/introduction.tex
 c025c5070172f97d6022c74a8e0a8516d41faadcbb475efd5a9bc663  ./LICENSE.txt
 c03f9058f529f20b5e9f3eb9e5186cb40a42f22c1f9915503ac6213f  ./tex/blumenfeld.tex
 c1862bf0cddb17a05f8f2c22ed411997b98b4b7e141df7ffaec5e0fe  ./tex/liszt.tex
@@ -39,7 +40,6 @@ c471a28eb4ef5e2351eb53148d3e0810a4670248c2180eadaaed7545  ./img/vvs.png
 c50d9295f883a172b8dbf1af177327c716f381255654ddd6a9e90d30  ./tex/paris.tex
 c80c88d434f672c6a84ec547a8d462fd9bd7bd710e7bbfdb3f64e66d  ./tex/bach-ziloti.tex
 d13af34fb8a05db1d6681dffd63cd2da944101d43be044a62fe5513c  ./tex/schubert-liszt.tex
-d51dd3a40cb2c294e4f7e2b1f298a6d6e32804a403e9ec97610d606a  ./dvs.pdf
 d7a309d222c0b8a819077fd049e7c29e5ceb8fa9975c62aedaf220a5  ./tex/recitals.tex
 d8268de42ed54c4ce51ffa9df8833dd0d24a964b0eb4eb168029aede  ./tex/bibliographie.tex
 e5f9c3ba64ee5dc917264e84bc90318c2df3b4243cc1b0e53a1224eb  ./tex/lexique.tex
